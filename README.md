@@ -32,7 +32,7 @@ Stop marketing to customers based on basic demographics and transition to behavi
   * Premium users are highly profitable via interchange fees and require luxury travel incentives.
   * Targeted engagement increases "share of wallet" for everyday convenience shoppers.
 
-![Persona Strategy Dashboard](./images/persona_dashboard.png)
+![Persona Strategy Dashboard](./images/personas_dashboard.png)
 
 **2. Proactive Credit Risk Mitigation:** 
 Automatically detect accounts exhibiting high-risk borrowing behaviors.
