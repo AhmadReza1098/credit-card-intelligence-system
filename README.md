@@ -32,7 +32,7 @@ Stop marketing to customers based on basic demographics and transition to behavi
   * Premium users are highly profitable via interchange fees and require luxury travel incentives.
   * Targeted engagement increases "share of wallet" for everyday convenience shoppers.
 
-![Persona Strategy Dashboard](./images/persona_strategy.png)
+![Persona Strategy Dashboard](./images/persona_dashboard.png)
 
 **2. Proactive Credit Risk Mitigation:** 
 Automatically detect accounts exhibiting high-risk borrowing behaviors.
@@ -43,7 +43,7 @@ Automatically detect accounts exhibiting high-risk borrowing behaviors.
   * Early detection allows the risk team to intervene with structured personal loans before a total default occurs.
   * Suppressing credit line increases for risky segments protects portfolio health.
 
-![Customer Lookup Engine](./images/customer_lookup.png)
+![Customer Lookup Engine](./images/lookup.png)
 
 ⚡ **Faster Frontline Operations:** Equip customer service representatives with an automated "Next Best Action" (NBA) engine based on live customer lookups.
 
